@@ -1,0 +1,7 @@
+<style>
+@import url('https://cdn.jsdelivr.net/gh/tomquinn04/spacehey-layout/stylesheet.min.css');
+</style>
+
+<style>
+@import url('https://github.com/tomquinn04/spacehey-layout/stylesheet.min.css');
+</style>
