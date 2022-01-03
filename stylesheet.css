@@ -1,8 +1,10 @@
+<style>
 @import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300&display=swap');
 
 :root {
-    --headers: #ec5a5a;
-    --text: pink;
+    --headers: #000000;
+    --text: black;
     --names: #ec5a5a;
     --links: pink;
     --hover: #f3d7d7;
@@ -19,7 +21,7 @@ body {
 }
 
 main {
-    color: rgba(255,70,74,1);
+    color: navy;
 }
 
 .container {
@@ -69,8 +71,9 @@ main {
 }
 
 .profile .blurbs .heading, .profile .friends .heading {
-    background: transparent;
-    color: rgba(255,70,74,1);
+    font-family: 'Roboto Slab', serif;
+    background: rgba(200,0,90,0.2);
+    color: black;
     font-size: 1.50rem;
 }
 
@@ -93,3 +96,4 @@ a {
 .emphasize {
     color: rgba(78,170,75,1);
 }
+</style>
