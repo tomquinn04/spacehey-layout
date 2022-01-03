@@ -72,7 +72,7 @@ main {
 
 .profile .blurbs .heading, .profile .friends .heading {
     font-family: 'Roboto Slab', serif;
-    background: rgba(200,0,90,0.2);
+    background: rgba(200,0,90,0.2) !important;
     color: black;
     font-size: 1.50rem;
 }
