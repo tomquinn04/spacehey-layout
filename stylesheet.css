@@ -26,12 +26,7 @@ a {
     color: rgba(78,170,75,1);
 }
 
-@import url("https://tomquinn04.github.io/spacehey/addons/online-glow.css");
-.online,.online:before {
-    --onl_baseColor: #123456; /* Main color for glow */
-    --onl_darkColor: #654321; /* Dark color for glow */
-    --onl_brightColor: #0000ff; /* Color for shadow of the glow */
-    --onl_leftOffset: 0px; /* Adjust this to move it left/right */
-    --onl_topOffset: 0px; /* Adjust this to move it up/down */
-}
+
+<style>@import url("https://robins.one/spacehey/addons/modern-navbar.css");<style>
+
 </style>
