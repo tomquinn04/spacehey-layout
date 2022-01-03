@@ -70,7 +70,7 @@ main {
 
 .profile .blurbs .heading, .profile .friends .heading {
     background: transparent;
-    color: rgba(70,70,74,1);
+    color: rgba(255,70,74,1);
     font-size: 1.50rem;
 }
 
